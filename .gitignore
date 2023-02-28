@@ -131,3 +131,5 @@ ui-tests/playwright-report
 .jupyter_ystore.db
 
 datasets/*
+dataset/
+dataset/ogbn_arxiv/*
